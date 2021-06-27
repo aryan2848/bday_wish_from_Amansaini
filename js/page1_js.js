@@ -11,9 +11,9 @@ if (key1 == "aman10"){
     var img_addr3 = "img/aman3.jpg";
 }
 
-else if (key1 == "aryan04"){
+else if (key1 == "anu"){
     var name1 = "Aaryan Saini";
-    var date1 = "27.06.2004";
+    var date1 = "27 June 2004";
     var img_addr1 = "img/anu1.jpg";
     var img_addr2 = "img/anu2.jpg";
     var img_addr3 = "img/anu3.jpg";
