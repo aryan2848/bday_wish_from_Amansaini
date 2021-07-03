@@ -20,7 +20,7 @@ else if (key1 == "anu"){
 }
 
 
-else if (key1 == "nehayog") {
+else if (key1 == "yogaguru") {
     var name1 = "Neha Saini";
     var date1 = "3 July";
     var img_addr1 = "img/neha1.jpg";
